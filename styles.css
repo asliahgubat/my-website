@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('Media\ \(2\).jpg;
+    background-image: url('Media\ \(2\).jpg;);
     /* darken bg image only */
     background-color: grey;
     background-blend-mode: multiply;
